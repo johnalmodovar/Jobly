@@ -4,9 +4,11 @@ A job searching application that features user login/registration authentication
 
 ## Fullstack App
 
-Uses `React` for frontend, `PostgreSQL` for database, `Node.js`/`Express` for backend.
+- Frontend: Created with `Create-React-App` -> `React`
+- Backend: `Node.js` & `Express`
+- Database: `PostgreSQL`
 
 ## Links
 
-Website: `soon..`
-Deployed Backend: `soon..`
+- Website: `soon..`
+- Deployed Backend: `soon..`
