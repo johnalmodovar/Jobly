@@ -1,6 +1,6 @@
 # jobly
 
-A job searching application that features user login/registration, browsing & applying/unapplying jobs, live search jobs and companies by name, and view jobs posted by each company.
+A job searching application that features user login/registration authentication, browsing & applying/unapplying jobs, live search jobs and companies by name, and view jobs posted by each company.
 
 ## Fullstack App
 
