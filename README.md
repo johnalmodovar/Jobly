@@ -1,8 +1,14 @@
 # Jobly
 
-A job searching application that features user login/registration authentication, browsing & applying/unapplying jobs, live search jobs and companies by name, and view jobs posted by each company.
+A job searching application.
 
+## Features
 
+- user login/registration authentication.
+- browse & apply/unapply for jobs.
+- fully functioning search bar for job and company names.
+- can view all jobs posted by company on company page.
+- profile page to edit user details and view jobs they applied for.
 
 ## Front-End Stack
 
