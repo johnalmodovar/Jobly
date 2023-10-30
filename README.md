@@ -22,6 +22,6 @@ A job searching application that features user login/registration authentication
 - Website: `soon..`
 - Deployed Backend: `soon..`
 
-## Credits
+## Contributors
 - [John Almodovar](https://github.com/johnalmodovar)
 - [Ross Brown](https://github.com/ross-brown)
