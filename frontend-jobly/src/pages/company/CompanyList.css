@@ -1,0 +1,11 @@
+.CompanyList {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  align-items: center;
+}
+
+.CompanyList a {
+  text-decoration: none;
+}
+

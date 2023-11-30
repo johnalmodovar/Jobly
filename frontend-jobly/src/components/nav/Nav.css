@@ -1,0 +1,11 @@
+.Nav {
+  background-color: white;
+}
+
+.Nav a {
+  text-decoration: none;
+}
+
+.Nav a.active {
+  font-weight: bolder;
+}
