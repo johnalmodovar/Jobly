@@ -32,11 +32,11 @@ function Profile({ editProfile }) {
 
   return (
     <div className="Profile">
-      <h1>Profile</h1>
+      <h1>Profile Information</h1>
       <ProfileForm editProfile={editProfile} />
 
       <div className="row row-cols-1">
-        <h3>Jobs Applied:</h3>
+        <h1>Jobs Applied:</h1>
         {jobs.length === 0 && <p>Sorry, no job applications found.</p>}
         <JobCardList jobs={jobs} />
       </div>

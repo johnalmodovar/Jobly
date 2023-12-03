@@ -45,8 +45,8 @@ function ProfileForm({ editProfile }) {
   }
 
   return (
-    <div className="SignupForm m-5">
-      <form onSubmit={handleSubmit} className="form-control p-3 mb-4">
+    <div className="SignupForm mt-4">
+      <form onSubmit={handleSubmit} className="form-control p-3 mb-4 shadow p-3 mb-5 bg-white rounded">
         <div className="mb-3 text-start">
           <label className="form-label" htmlFor="username">Username</label>
           <input
@@ -92,7 +92,7 @@ function ProfileForm({ editProfile }) {
             className="form-control"
           />
         </div>
-        <button className="btn btn-primary">Submit</button>
+        <button className="btn btn-primary">Edit Profile</button>
       </form>
       {isSaved && <Alert type={"success"} alerts={"Changes saved."} />}
       {formErrors.length !== 0 && <Alert alerts={formErrors} type={"danger"} />}
