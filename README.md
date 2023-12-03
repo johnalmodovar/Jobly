@@ -23,10 +23,21 @@ A job searching application.
 ![alt text](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![alt text](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 
-## Links
+## Deployed Page
 
-- Website: `soon..`
-- Deployed Backend: `soon..`
+https://jobly.johnalmodovar.com/
+
+## Run Locally
+
+Make sure to run backend server before starting frontend server.
+
+#### To Run Backend:
+1. Switch to backend-jobly directory
+2. run `npm start`
+
+#### To Run Frontend:
+1. Switch to frontend-jobly directory
+2. run `npm start`
 
 ## Contributors
 - [John Almodovar](https://github.com/johnalmodovar)
