@@ -38,7 +38,7 @@ function CompanyList() {
     <div className="CompanyList container d-flex flex-column align-items-center">
       <SearchForm filter={filter} />
 
-      <div className="row row-cols-1">
+      <div className="row row-cols-1 mt-5">
         {companies.length === 0 && <p>Sorry, no results were found!</p>}
         {companies.map(c => (
           <Link

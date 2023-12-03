@@ -37,7 +37,7 @@ function JobList({ apply }) {
     <div className="JobList container d-flex flex-column align-items-center">
       <SearchForm filter={filter} />
 
-      <div className="row row-cols-1">
+      <div className="row row-cols-1 mt-5">
         {jobs.length === 0 && <p>Sorry, no results were found!</p>}
         <JobCardList jobs={jobs} />
       </div>
