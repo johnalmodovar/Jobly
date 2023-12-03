@@ -13,7 +13,7 @@ function Homepage() {
   return (
     <div className="Homepage">
       <h1>Jobly</h1>
-      <p>All the jobs in one, convenient place.</p>
+      <p>Find a job best suited for you.</p>
       {currentUser.data
         ? <h3>Welcome Back, {currentUser.data.firstName}!</h3>
         : <>
