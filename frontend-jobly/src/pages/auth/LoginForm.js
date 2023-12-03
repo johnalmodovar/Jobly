@@ -49,9 +49,9 @@ function LoginForm({ login }) {
   }
 
   return (
-    <div className="LoginForm col-md-4 m-5">
+    <div className="LoginForm col-md-6 m-5">
       <h1>Sign in to Jobly</h1>
-      <form onSubmit={handleSubmit} className="form-control p-3 my-4">
+      <form onSubmit={handleSubmit} className="form-control p-3 my-4 shadow p-3 mb-5 bg-white rounded">
         <div className="mb-3 text-start">
           <label className="form-label" htmlFor="username">Username</label>
           <input

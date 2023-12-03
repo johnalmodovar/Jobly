@@ -11,7 +11,7 @@ import "./CompanyCard.css";
 */
 function CompanyCard({ company }) {
   return (
-    <div className="CompanyCard container col card my-2 p-2 d-flex">
+    <div className="CompanyCard container col card my-2 p-2 d-flex shadow p-3 mb-5 bg-white rounded">
       {company.logoUrl &&
         <img
           className="company-logo"

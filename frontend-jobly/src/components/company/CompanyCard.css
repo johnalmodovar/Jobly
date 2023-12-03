@@ -3,10 +3,10 @@
   max-width: 55rem;
 }
 
-.CompanyCard:hover {
+/* .CompanyCard:hover {
   background-color: rgb(238, 238, 238);
   box-shadow: 0.3rem 0.4rem rgba(0, 0, 0, 0.05);
-}
+} */
 
 .company-logo {
   position: absolute;
