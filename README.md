@@ -27,6 +27,18 @@ A job searching application.
 
 https://jobly.johnalmodovar.com/
 
+## Run Locally
+
+Make sure to run backend server before starting frontend server.
+
+#### To Run Backend:
+1. Switch to backend-jobly directory
+2. run `npm start`
+
+#### To Run Frontend:
+1. Switch to frontend-jobly directory
+2. run `npm start`
+
 ## Contributors
 - [John Almodovar](https://github.com/johnalmodovar)
 - [Ross Brown](https://github.com/ross-brown)
