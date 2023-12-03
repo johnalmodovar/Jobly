@@ -23,10 +23,9 @@ A job searching application.
 ![alt text](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![alt text](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 
-## Links
+## Deployed Page
 
-- Website: `soon..`
-- Deployed Backend: `soon..`
+https://jobly.johnalmodovar.com/
 
 ## Contributors
 - [John Almodovar](https://github.com/johnalmodovar)
