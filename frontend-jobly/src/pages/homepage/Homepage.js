@@ -19,6 +19,12 @@ function Homepage() {
         : <>
           <Link className="btn btn-primary mx-1" to="/login">Login</Link>
           <Link className="btn btn-primary mx-1" to="/signup">Signup</Link>
+
+          <div className="col card p-2 d-flex mt-5 shadow p-3 mb-5 bg-white rounded">
+            <h4>Test User Login Information</h4>
+            <p>Username: testuser</p>
+            <p>Password: password</p>
+          </div>
         </>}
     </div>
   );
