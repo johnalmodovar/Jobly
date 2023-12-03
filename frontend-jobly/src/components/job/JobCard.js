@@ -19,7 +19,7 @@ function JobCard({ job }) {
     if (hasAppliedToJob(job.id)) {
       setHasApplied(true);
     }
-  }, [job.id]);
+  }, [job.id, hasAppliedToJob]);
 
   /** Handles on click for applying to jobs.
    *  Calls on parent function and sets hasApplied state to true.
