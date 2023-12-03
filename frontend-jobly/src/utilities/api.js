@@ -1,4 +1,7 @@
-const BASE_URL = process.env.REACT_APP_BASE_URL || "http://localhost:3001";
+const BASE_URL = (
+  process.env.REACT_APP_BASE_URL
+  || "https://backend-jobly.onrender.com"
+  || "http://localhost:3001");
 
 /** API Class.
  *
@@ -115,7 +118,7 @@ class JoblyApi {
   /** Get info on a user by username */
   static async getUser(username) {
     let res = await this.request(`users/${username}`);
-  
+
     return res.user;
   }
 
