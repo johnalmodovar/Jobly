@@ -4,11 +4,12 @@ A job searching application.
 
 ## Features
 
-- user login/registration authentication.
-- browse & apply/unapply for jobs.
-- fully functioning search bar for job and company names.
-- can view all jobs posted by company on company page.
-- profile page to edit user details and view jobs they applied for.
+- user authentication and authorization
+- browse for companies and jobs associated with them
+- fully functioning search bar for jobs and companies
+- ability to apply and unapply for jobs
+- view all available jobs for a company on their company page
+- profile page to edit user details and view jobs they have applied to
 
 ## Front-End Stack
 
