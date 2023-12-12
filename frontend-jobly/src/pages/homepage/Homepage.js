@@ -24,6 +24,10 @@ function Homepage() {
             <h4>Test User Login Information</h4>
             <p>Username: testuser</p>
             <p>Password: password</p>
+            <br />
+            <h5>Note:</h5>
+            <p>Login/Signup won't work instantly.</p>
+            <p>It takes time for the backend server to start.</p>
           </div>
         </>}
     </div>
